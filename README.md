@@ -10,7 +10,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jainprayush&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Prayush's github stats"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainprayush&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Prayush's github stats"/>
 
-<p align="left"> <a href="https://twitter.com/jainprayush9" target="blank"><img src="https://img.shields.io/twitter/follow/jainprayush9?logo=twitter&style=for-the-badge" alt="jainprayush9" /></a> </p>
+
 
 <br />
 <br />
