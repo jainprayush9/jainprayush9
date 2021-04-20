@@ -5,7 +5,7 @@
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/jainprayush9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a target="_blank"href="https://jainprayush.github.io/"> <img src="https://img.shields.io/badge/Prayush%20Jain-Welcomes%20You-blue?style=for-the-badge&logo=P" />&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank "href="https://jainprayush.github.io/"> <img src="https://img.shields.io/badge/Prayush%20Jain-Welcomes%20You-blue?style=for-the-badge&logo=P" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:jainprayush9@gmail.com?subject=Hello%20Prayush,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
