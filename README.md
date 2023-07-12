@@ -7,8 +7,8 @@
 <img src="https://img.shields.io/badge/Prayush%20Jain-Welcomes%20You-blue?style=for-the-badge&logo=P" />&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:jainprayush9@gmail.com?subject=Hello%20Prayush,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jainprayush&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Prayush's github stats"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainprayush&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Prayush's github stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jainprayush9&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Prayush's github stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainprayush9&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Prayush's github stats"/>
 
 
 <br />
@@ -51,6 +51,6 @@
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=jainprayush&label=Profile%20views&color=0e75b6&style=flat" alt="jainprayush" />
+  <img src="https://komarev.com/ghpvc/?username=jainprayush9&label=Profile%20views&color=0e75b6&style=flat" alt="jainprayush9" />
 
 </p>
